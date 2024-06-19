@@ -9,7 +9,7 @@
 But hold on to your keyboards, for in recent years, I've taken a detour into the whimsical realm of AI projects. Picture this: combining the elegance of neural networks with the blockchain ballet. Yes, you heard it right—making crypto projects not just cutting-edge but cutting through dimensions! Join me on this intergalactic coding carnival, where every line of code is a step into the cosmos of hilarity and innovation. 🚀💻🌌 #WebDevGalacticTrailblazer #BlockchainJester #FinancialManager
 <br> <br>
 
-<a href="https://app.daily.dev/spirit1103"><img src="https://api.daily.dev/devcards/v2/ICvNN6ZTy623t2MNsSBHo.png?type=default&r=npw" width="356" alt="Spirit's Dev Card"/></a>
+<a href="https://app.daily.dev/spirit1103"><img src="https://api.daily.dev/devcards/v2/ICvNN6ZTy623t2MNsSBHo.png?type=default&r=4kp" width="356" alt="Spirit's Dev Card"/></a>
 
 ### My GitHub Stats
 <a href="http://www.github.com/PatryMot"><img src="https://github-readme-stats.vercel.app/api?username=PatryMot&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="PatryMot's GitHub stats" /></a>
