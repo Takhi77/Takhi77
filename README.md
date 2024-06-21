@@ -15,6 +15,8 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skeleton1009)](https://github.com/skeleton1009/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeleton1009&layout=pie)](https://github.com/skeleton1009/github-readme-stats)
+
 <a href="http://www.github.com/PatryMot"><img src="https://github-readme-stats.vercel.app/api?username=PatryMot&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="PatryMot's GitHub stats" /></a>
 
 # Blog posts
