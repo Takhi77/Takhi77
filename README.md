@@ -9,7 +9,8 @@
 But hold on to your keyboards, for in recent years, I've taken a detour into the whimsical realm of AI projects. Picture this: combining the elegance of neural networks with the blockchain ballet. Yes, you heard it right—making crypto projects not just cutting-edge but cutting through dimensions! Join me on this intergalactic coding carnival, where every line of code is a step into the cosmos of hilarity and innovation. 🚀💻🌌 #WebDevGalacticTrailblazer #BlockchainJester #FinancialManager
 <br> <br>
 
-
+### MY DEV CARD
+<a href="https://app.daily.dev/skeleton1009"><img src="https://api.daily.dev/devcards/v2/by2TsLm7pBcLrUiU7zSJR.png?type=wide&r=a7d" width="652" alt="crypto_lover's Dev Card"/></a>
 
 ### My GitHub Stats
 
