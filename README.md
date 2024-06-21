@@ -26,7 +26,6 @@ But hold on to your keyboards, for in recent years, I've taken a detour into the
 - [DenoJS](https://deno.com)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
 - [Bun JavaScript Runtime Environment](https://bun.sh)
-- [Segment Anything(AI)](https://segment-anything.com)
 
 # Recently Read Acticles
 - [Solana liquid staking: The ultimate guide (2024)](https://phantom.app/learn/crypto-101/solana-liquid-staking)
