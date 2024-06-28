@@ -5,7 +5,7 @@
 * Technical Advisor
 * Project Manager
 ----------------------------------------------------
-* Drop a line to **[@jcr_auditor](https://t.me/skeleton)** in Telegram or email me at **ewantomson1103@gmail.com**
+* Drop a line to **[@jcr_auditor](https://t.me/skeleton1009)** in Telegram or email me at **ewantomson1103@gmail.com**
 
 I have been breaking things professionally since early 2016. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
 
