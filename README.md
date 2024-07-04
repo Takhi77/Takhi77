@@ -6,13 +6,9 @@
 ----------------------------------------------------
 * Drop a line to **[@skeleton1009](https://t.me/skeleton1009)** in Telegram or email me at **ewantomson1103@gmail.com**
 
-I have been breaking things professionally since early 2016. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
+I have been breaking things professionally since early 2017. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
 
 In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionally.
-
-### My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeleton1009&layout=pie)](https://github.com/skeleton1009/github-readme-stats)
 
 # Recently Improved Techs
 - CosmWasm (Rust) [⚡⚡⚡⚡⚡]
