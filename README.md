@@ -3,7 +3,6 @@
 * Blockchain (Cosmwasm, Solana) Engineer
 * Full Stack Developer
 * Technical Advisor
-* Project Manager
 ----------------------------------------------------
 * Drop a line to **[@skeleton1009](https://t.me/skeleton1009)** in Telegram or email me at **ewantomson1103@gmail.com**
 
@@ -11,18 +10,9 @@ I have been breaking things professionally since early 2016. My whole career has
 
 In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionally.
 
-### MY DEV CARD
-<a href="https://app.daily.dev/skeleton1009"><img src="https://api.daily.dev/devcards/v2/by2TsLm7pBcLrUiU7zSJR.png?type=wide&r=a7d" width="652" alt="crypto_lover's Dev Card"/></a>
-
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skeleton1009)](https://github.com/skeleton1009/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeleton1009&layout=pie)](https://github.com/skeleton1009/github-readme-stats)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 # Recently Improved Techs
 - CosmWasm (Rust) [⚡⚡⚡⚡⚡]
