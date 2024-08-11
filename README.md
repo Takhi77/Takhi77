@@ -9,7 +9,7 @@ I have been breaking things professionally since early 2017. My whole career has
 In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionally.
 # Recently Improved Techs
 - CosmWasm (Rust) [⚡⚡⚡⚡⚡]
-- Solidity/EVM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[⚡⚡⚡ 🪲 🪲]
+- [Solana Geyser Support RPC](https://www.youtube.com/watch?v=njC24ts24Pg)
 - [Solana Jito Bundle](https://www.jito.wtf)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/)
 # Recently Read Acticles
