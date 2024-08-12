@@ -4,7 +4,7 @@
 * Full Stack Developer
 * Technical Advisor
 ----------------------------------------------------
-* Drop a line to **[Ruby](https://t.me/@Ruby0107)** in Telegram or email me at **ewantomson1103@gmail.com**
+* Drop a line to **[Ruby](https://t.me/@Ruby0107)** in Telegram or email me at **ewantomson1103@gmail.com** or twitter at **[ewan_tomson](https://x.com/ewan_tomson)**
 I have been breaking things professionally since early 2017. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
 In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionally.
 # Recently Improved Techs
