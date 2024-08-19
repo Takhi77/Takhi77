@@ -17,7 +17,7 @@ I even also ***duplicated the pumpfun's working method as new replica contract**
 * 🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies "honeypot"
 * 🌱Holder bot🌱: Increase the holder of the token by distributing the token in Dev wallet
 * 🌱Maker bot🌱: Increase the token trader by making the wallets buy and sell the token from the pool
-I am trying to make 🌱Arbitrage bot🌱 nowadays
+* I am trying to make 🌱Arbitrage bot🌱 nowadays
 
 I also worked with ***smart contract*** and ***web3 projects*** like p2e games
 **Pump.fun forking SC**, **Presale SC**, **DCA SC**, **SOL locker SC**, **Pnft staking SC** and so on...
