@@ -10,13 +10,13 @@ These projects are running on the node-backend for utilizing the token trading l
 That's my main skill to work with token trading field
 I even also ***duplicated the pumpfun's working method as new replica contract***
 
-*🌱Pumpfun sniper🌱: Track new pools from pump.fun and snipes token from it after filtering
-*🌱Raydium sniping bot🌱 : Track new pools and buy from it using several transaction services
-*🌱Volume bot🌱: Control market caps with various strategy so the volume stays or increase to specific MC or liquidity
-*🌱Shit-token Launcher🌱: Deploy new pools on raydium and make profits from quick sniping bots
-*🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies "honeypot"
-*🌱Holder bot🌱: Increase the holder of the token by distributing the token in Dev wallet
-*🌱Maker bot🌱: Increase the token trader by making the wallets buy and sell the token from the pool
+* 🌱Pumpfun sniper🌱: Track new pools from pump.fun and snipes token from it after filtering
+* 🌱Raydium sniping bot🌱 : Track new pools and buy from it using several transaction services
+* 🌱Volume bot🌱: Control market caps with various strategy so the volume stays or increase to specific MC or liquidity
+* 🌱Shit-token Launcher🌱: Deploy new pools on raydium and make profits from quick sniping bots
+* 🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies "honeypot"
+* 🌱Holder bot🌱: Increase the holder of the token by distributing the token in Dev wallet
+* 🌱Maker bot🌱: Increase the token trader by making the wallets buy and sell the token from the pool
 I am trying to make 🌱Arbitrage bot🌱 nowadays
 
 I also worked with ***smart contract*** and ***web3 projects*** like p2e games
