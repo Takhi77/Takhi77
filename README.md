@@ -14,7 +14,7 @@ I even also ***duplicated the pumpfun's working method as new replica contract**
 * 🌱Raydium sniping bot🌱 : Track new pools and buy from it using several transaction services
 * 🌱Volume bot🌱: Control market caps with various strategy so the volume stays or increase to specific MC or liquidity
 * 🌱Shit-token Launcher🌱: Deploy new pools on raydium and make profits from quick sniping bots
-* 🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies "honeypot"
+* 🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies
 * 🌱Holder bot🌱: Increase the holder of the token by distributing the token in Dev wallet
 * 🌱Maker bot🌱: Increase the token trader by making the wallets buy and sell the token from the pool
 * I am trying to make 🌱Arbitrage bot🌱 nowadays
