@@ -5,8 +5,24 @@
 * Technical Advisor
 ----------------------------------------------------
 * Drop a line to **[Ruby](https://t.me/@Ruby0107)** in Telegram or email me at **ewantomson1103@gmail.com** or twitter at **[ewan_tomson](https://x.com/ewan_tomson)**
-I have been breaking things professionally since early 2017. My whole career has been focused on offensive security with a strong background doing pen-testing of "traditional" stuff like web, mobile, or cloud, but since 2021, I have been working full-time as a Smart Contract auditor.
-In addition, I **lecture** on **Solana security** to 🌱blockchain students🌱 through the discord social and give workshops/talks on the topic occasionally.
+
+These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium
+That's my main skill to work with token trading field
+I even also ***duplicated the pumpfun's working method as new replica contract***
+
+🌱Pumpfun sniper🌱: Track new pools from pump.fun and snipes token from it after filtering
+🌱Raydium sniping bot🌱 : Track new pools and buy from it using several transaction services
+🌱Volume bot🌱: Control market caps with various strategy so the volume stays or increase to specific MC or liquidity
+🌱Shit-token Launcher🌱: Deploy new pools on raydium and make profits from quick sniping bots
+🌱Token-freezer🌱: Create pool with token and freezes any token account it needs, providing good chance for strategies "honeypot"
+🌱Holder bot🌱: Increase the holder of the token by distributing the token in Dev wallet
+🌱Maker bot🌱: Increase the token trader by making the wallets buy and sell the token from the pool
+I am trying to make 🌱Arbitrage bot🌱 nowadays
+
+I also worked with ***smart contract*** and ***web3 projects*** like p2e games
+**Pump.fun forking SC**, **Presale SC**, **DCA SC**, **SOL locker SC**, **Pnft staking SC** and so on...
+If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
+
 # Recently Improved Techs
 - CosmWasm (Rust) [⚡⚡⚡⚡⚡]
 - [Solana Geyser Support RPC](https://www.youtube.com/watch?v=njC24ts24Pg)
