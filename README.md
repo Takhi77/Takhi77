@@ -4,7 +4,6 @@
 * Full Stack Developer
 * Technical Advisor
 ----------------------------------------------------
-* Drop a line to **[Ruby](https://t.me/@Ruby0107)** in Telegram or **[skel1009]** in Discord or email me at **ewantomson1103@gmail.com** or twitter at **[ewan_tomson](https://x.com/ewan_tomson)**
 
 These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium
 That's my main skill to work with token trading field
