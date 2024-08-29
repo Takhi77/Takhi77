@@ -5,6 +5,10 @@
 * Technical Advisor
 ----------------------------------------------------
 
+You can contact me through telegram Takhi[https://t.me//@takhi77]
+
+There, we can discuss on more comfortable contact with you.
+
 These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium
 That's my main skill to work with token trading field
 I even also ***duplicated the pumpfun's working method as new replica contract***
