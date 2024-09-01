@@ -3,11 +3,6 @@
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="600" src="https://technostupid.com/frontend/images/95116-coder.gif">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,react,vite,c,c++" />
-  </a>
-</p>
 
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Henry Kovacs**
@@ -90,6 +85,11 @@ Always **Curious** and **Creative** 🧠
     - <b>Henry Kovacs<b>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,ts,react,vite,c,c++" />
+  </a>
+</p>
 
 * 🚀Pumpfun sniper & bundler🚀
 * 🚀Raydium sniper & bundler🚀
