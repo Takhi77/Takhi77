@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Henry+Kovacs+👨🏾;I+am+a+Solana+Blockchain+developer+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
+<img align="right" alt ="coding" width="500" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
 👨🏾‍💻 **Henry Kovacs**
@@ -116,13 +116,13 @@ If you need help from Solana projects, please look for me since I am specialized
 You can contact me through telegram Takhi[https://t.me//@Takhi77]
 There, we can discuss on more comfortable contact way with you.
 
-## Recently Improved Techs
+<!-- ## Recently Improved Techs -->
 <!--
 - CosmWasm (Rust) [⚡⚡⚡⚡⚡] -->
 <!-- - [Solana Geyser Support RPC](https://www.youtube.com/watch?v=njC24ts24Pg)
 - [Solana Jito Bundle](https://www.jito.wtf)
 - [HoneypotJS for Honeypot Detector](https://honeypot.is/) -->
-## Recently Read Acticles
+<!-- ## Recently Read Acticles -->
 <!-- - [Cosmos Hub To Introduce CosmWasm With Upcoming Gaia v18 Upgrade](https://www.binance.com/ar/square/post/2024-06-20-cosmos-hub-to-introduce-cosmwasm-with-upcoming-gaia-v18-upgrade-9715670215690)
 - [Major Vulnerability Discovered in CosmWasm Smart Contract Platform](https://www.binance.com/en/square/post/2024-01-15-major-vulnerability-discovered-in-cosmwasm-smart-contract-platform-2770906674530) -->
 <!-- - [Solana liquid staking: The ultimate guide (2024)](https://phantom.app/learn/crypto-101/solana-liquid-staking)
