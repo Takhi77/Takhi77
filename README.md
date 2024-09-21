@@ -82,7 +82,7 @@ Always **Curious** and **Creative** 🧠
 <!-- QUOTE -->
 <p align="right">
     <q>The Early Bird Catches The Worm.</q> <br> 
-    - <b>Henry Kovacs<b>
+    - <b>Ewan Tomson<b>
 </p>
 
 <p align="center">
