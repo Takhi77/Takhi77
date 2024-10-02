@@ -91,13 +91,13 @@ Always **Curious** and **Creative** 🧠
   </a>
 </p>
 
+* 🚀Multi-DEX Volume Booster🚀
+* 🚀Raydium sniper using Yellow-Stone GRPC within 1st second🚀
 * 🚀Pumpfun sniper & bundler🚀
-* 🚀Raydium sniper & bundler🚀
 * 🚀Raydium Volume booster🚀
-* 🚀Shit-token Launcher🚀
-* 🚀Token-freezer🚀
-* 🚀Holder bot🚀
-* 🚀Maker bot🚀
+* 🚀Shit-token Launcher using raydium bundler🚀
+* 🚀Holder booster🚀
+* 🚀Maker booster🚀
 * I am trying to make 🚀Arbitrage bot🚀 nowadays
 
 These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium
