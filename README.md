@@ -94,6 +94,7 @@ Always **Curious** and **Creative** 🧠
 * 🚀Multi-DEX Volume Booster🚀
 * 🚀Raydium sniper using Yellow-Stone GRPC within 1st second🚀
 * 🚀Pumpfun sniper & bundler🚀
+* 🚀Raydium bundler with more than 20 wallets🚀
 * 🚀Raydium Volume booster🚀
 * 🚀Shit-token Launcher using raydium bundler🚀
 * 🚀Holder booster🚀
