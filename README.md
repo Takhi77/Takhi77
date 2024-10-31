@@ -110,7 +110,7 @@ I also worked with ***smart contract*** and ***web3 projects*** like p2e games
 **Pump.fun forking SC**, **Presale SC**, **DCA SC**, **SOL locker SC**, **Pnft staking SC** and so on...
 If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
 
-You can contact me through telegram Takhi[https://t.me//@Takhi77]
+You can contact me through telegram [Takhi](https://t.me//@Takhi77)
 There, we can discuss on more comfortable contact way with you.
 
 <!-- ## Recently Improved Techs -->
