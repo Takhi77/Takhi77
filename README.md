@@ -91,7 +91,7 @@ Always **Curious** and **Creative** 🧠
   </a>
 </p>
 
-* 🚀Super Raydium Volume bot V3 (Target any interval, any amount, any volume with enough Balance of the wallet)🚀
+* 🚀Super Raydium Volume bot V3 (Target any interval, any amount, any volume and any number of makers with enough Balance of the wallet)🚀
 * 🚀Perpetual Market Maker bot🚀
 * 🚀Multi-DEX Volume Booster🚀
 * 🚀Raydium sniper using Yellow-Stone GRPC within 1st second🚀
