@@ -99,6 +99,7 @@ Always **Curious** and **Creative** 🧠
 * 🚀Raydium Volume booster🚀
 * 🚀Shit-token Launcher using raydium bundler🚀
 * 🚀Holder booster🚀
+* 🚀Copytrading bot🚀
 * I am trying to make 🚀Arbitrage bot🚀 nowadays
 
 These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium
